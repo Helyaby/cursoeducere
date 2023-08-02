@@ -1,6 +1,7 @@
-nota1 = float(input("Digite sua primeira nota :\n"))
-nota2 = float(input("Digite sua segunda nota :\n"))
-media = (nota1 + nota2) /2
+nota1 = float(input("Digite seu primeiro número :\n"))
+nota2 = float(input("Digite seu segundo número :\n"))
+nota3 = float(input("Digite seu terceiro número :\n"))
+media = (nota1 + nota2 + nota3) /3
 print(f"Sua média é de {media} pontos")
 
 
