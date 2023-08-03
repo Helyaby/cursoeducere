@@ -1,6 +1,6 @@
 # cursoeducere
 
-Repositório criado para o bootcamp do Integraddo em parceria com a fundação Educere.
+Repositório criado para o bootcamp do Integrado em parceria com a fundação Educere.
 
 O repositório foi criado para aplicar os conceitos vistos nas aila de controle de versão, utilizando git e GitHub.
 
